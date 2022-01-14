@@ -1,0 +1,2 @@
+# ranking
+wordpress theme
