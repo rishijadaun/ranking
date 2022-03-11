@@ -1,2 +1,2 @@
-# ranking
+# ranking starter theme
 wordpress theme
